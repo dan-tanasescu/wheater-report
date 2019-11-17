@@ -1,0 +1,19 @@
+body{
+background-color: #f4f4f4;
+}
+
+#wrapper{
+margin: 50px;
+font-family:Arial; 
+    
+}
+
+#container{
+ text-align: center;
+ width: 250px;
+ margin-top: 5px;
+ padding: 5px;
+ border:solid;
+ border-color: #f4f4f4;
+ border-radius: 25px;
+}
